@@ -1,2 +1,1 @@
-# ReactReduxDemo
-Demo
+# React Basic App
